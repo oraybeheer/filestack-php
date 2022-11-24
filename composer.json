@@ -1,5 +1,5 @@
 {
-    "name": "ejunker/filestack-php",
+    "name": "filestack/filestack-php",
     "description": "A Filestack library for PHP",
     "license": "Apache-2.0",
     "require": {
